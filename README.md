@@ -1,12 +1,9 @@
-# Simple Bootstrap主题
 
->  感谢使用Halo Simple Bootstrap主题  
+原主题来自 https://halo.run/archives/theme-simple-bootstrap.html
+
+按照我自己的喜好对样式进行了修改
 
 **主题演示地址**：[点击访问](https://halo.cyblogs.top)
-
-主题采用原生的`Bootstrap`样式，未经过大幅度的修改，主题色调为黑灰白，大幅度使用`Courier New`字体，没有华丽的图片做修饰，界面极为简洁，让读者专注于文字，而不被华丽的外表所吸引。
-
-~~其实说白了就是我完全没有灵感去设计那么华丽的界面~~
 
 ## 贴个图
 

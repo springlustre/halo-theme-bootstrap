@@ -58,9 +58,9 @@
         </div>
 
         <div class="mb-4 mt-n2">
-            <#if (user.description)?? && user.description?trim != ''>
+            <if (user.description)?? && user.description?trim != ''>
                 <span class="d-block text-center text-muted px-3">${user.description!}</span>
-            </#if>
+            </if>
         </div>
 
     </div>

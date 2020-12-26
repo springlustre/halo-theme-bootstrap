@@ -1,13 +1,12 @@
 <#--导航栏ok-->
 <section id="navBar" class="border-bottom bg-white">
-    <nav class="navbar navbar-expand-lg navbar-light container px-lg-2 py-3">
+    <nav class="navbar navbar-expand-lg navbar-light container px-lg-2" style="padding:0;">
 
         <a class="navbar-brand font-weight-bold" href="${blog_url!}">
             <#if (options.blog_logo)?? && options.blog_logo?trim != ''>
-                <img src="${options.blog_logo!}" width="30" height="30"
+                <img src="${options.blog_logo!}" width="80"
                      class="d-inline-block align-top mr-2" alt="${blog_title!}">
             </#if>
-            ${blog_title!}
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
