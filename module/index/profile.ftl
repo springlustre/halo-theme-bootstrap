@@ -1,5 +1,5 @@
 <#--主页的用户信息ok-->
-<section id="profile" class="mt-4 bg-white d-xl-block d-none">
+<section id="profile" class="bg-white d-xl-block d-none">
     <div class="card">
         <div class="card-header"><i class="fas fa-user mr-2"></i>个人信息</div>
         <div class="card-body d-flex flex-column align-items-center">
