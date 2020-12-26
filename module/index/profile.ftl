@@ -4,7 +4,7 @@
         <div class="card-header"><i class="fas fa-user mr-2"></i>个人信息</div>
         <div class="card-body d-flex flex-column align-items-center">
             <#--头像和个人信息-->
-            <div class="mt-4 mb-4point5 w-100 d-flex justify-content-center">
+            <div class="mb-4point5 w-100 d-flex justify-content-center">
                 <#--头像部分-->
                 <div class="w-50 text-right mr-3">
                     <i style="display: inline-block;

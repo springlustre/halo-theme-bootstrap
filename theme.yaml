@@ -11,14 +11,14 @@
 
 # 详情请参考：https://halo.run/develop/theme.html#theme-yaml
 
-id: codelunatic_simple
-name: Simple Bootstrap
+id: springlustre-theme
+name: springlustre-theme
 author:
-  name: CY
-  website: https://halo.cyblogs.top
+  name: Springlustre
+  website: https://github.com/springlustre
 description: 使用Bootstrap构建的简洁主题
 logo:
-website: https://halo.cyblogs.top
-repo: https://github.com/codelunatic/halo-theme-simple-bootstrap
+website: https://github.com/springlustre
+repo: https://github.com/springlustre/halo-theme-bootstrap
 version: 1.1.0
 require: 1.3.0
